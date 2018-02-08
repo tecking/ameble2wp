@@ -2,16 +2,16 @@
 /**
  * Ameblo2WP class
  * 
- * @copyright		Copyright 2016 - , COWBELL Corportaion and tecking
+ * @copyright		Copyright 2016 - , COWBELL Corporation and tecking
  * @link			https://github.com/tecking
- * @license			https://opensource.org/licenses/GPL-2.0
+ * @license			http://opensource.org/licenses/mit-license.php
  */
 
 
 class Ameblo2WP {
 
 	/**
-	 * コンストラクタ 
+	 * コンストラクタ
 	 * PHP Simple HTML DOM Parser を読み込む
 	 * http://simplehtmldom.sourceforge.net/
 	 */
